@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Responding to The World</title>
+    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+  <div class="main-container">
+    <div class="banner" id="banner">
+      <div class="banner-left">
+        <span class="banner-text">
+          <div class="banner-title">Responding to<br> The World</div>
+          <div class="banner-subtitle">Being in Place:<br> Relationships with Spaces</div>
+        </span>
+      </div>
+      <div class="banner-right"></div>
+    </div>
+
+    <div class="intro-blurb-card" id="introblurb">
+      Whether we are consciously aware of it or not, we all assign meaning to the spaces in which we regularly find ourselves. This assigned meaning allows us to form relationships with our environment and as technology continues to progress, we have been able to alter the way we interact with these spaces, subtly enhancing our relationships with them.
+      <br><br>
+      An example of this is the space where we get work done. We assign coffee shops or our homes as the spaces where we get work done and as technology has progressed we’ve been able to enhance our relationship with these spaces.
+    </div>
+
+    <div class="evolution-title" id="evolutiontitle">Evolution of Productive Spaces</div>
+    <div class="image-blurb" id="imageblurb1">
+      <div>
+        <div class="image-blurb-heading">Tech Free</div>
+        <div class="image-blurb-text">The journey started with no technology</div>
+      </div>
+    </div>
+    <div class="image" id="image1"></div>
+    <div class="image-blurb" id="imageblurb2">
+      <div>
+        <div class="image-blurb-heading">Fixed in Space</div>
+        <div class="image-blurb-text">Physically bound to a space by wired technology</div>
+      </div>
+    </div>
+    <div class="image" id="image2"></div>
+    <div class="image-blurb" id="imageblurb3">
+      <div>
+        <div class="image-blurb-heading">Mobile Spaces</div>
+        <div class="image-blurb-text">Freedom to choose spaces by wireless technology</div>
+      </div>
+    </div>
+    <div class="image" id="image3"></div>
+    <div class="image-blurb" id="imageblurb4">
+      <div>
+        <div class="image-blurb-heading">100% Tech Spacess</div>
+        <div class="image-blurb-text">There is no longer a need for traditional equipment</div>
+      </div>
+    </div>
+    <div class="image" id="image4"></div>
+    <div class="image-blurb" id="imageblurb5">
+      <div>
+        <div class="image-blurb-heading">Virtual Spaces</div>
+        <div class="image-blurb-text">We can tie ourselves to a single space while being in unlimited virtual spaces</div>
+      </div>
+    </div>
+    <div class="image" id="image5"></div>
+    <div class="image-blurb" id="imageblurb6">
+      <div>
+        <div class="image-blurb-heading">Back to Real Spaces</div>
+        <div class="image-blurb-text">We’ll be able to bring virtual spaces into our real spaces</div>
+      </div>
+    </div>
+    <div class="image" id="image6"></div>
+  </div>
+    
+</body>
+</html>
+  
